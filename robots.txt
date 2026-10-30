@@ -1,0 +1,6 @@
+# Allow all web crawlers
+User-agent: *
+Allow: /
+
+# Sitemap placeholder (update with your actual production domain)
+Sitemap: https://yourportfolio.dev/sitemap.xml
